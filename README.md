@@ -1,2 +1,2 @@
 # JAVAUCPI26
-Repositorio de jercicios para la certificacion en java PILARES Zapata 
+Repositorio de ejercicios para la certificacion en java PILARES Zapata 
